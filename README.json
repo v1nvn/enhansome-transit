@@ -112,7 +112,7 @@
             "last_commit": "2026-01-28T22:12:28Z",
             "owner": "Esri",
             "repo": "public-transit-tools",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2025-12-11T00:19:31Z",
             "owner": "derhuerst",
             "repo": "gtfs-via-postgres",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2025-12-11T00:19:31Z",
             "owner": "derhuerst",
             "repo": "gtfs-via-postgres",
-            "stars": 126
+            "stars": 127
           }
         }
       ],
@@ -234,7 +234,7 @@
             "last_commit": "2026-01-28T22:12:28Z",
             "owner": "Esri",
             "repo": "public-transit-tools",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -1166,7 +1166,7 @@
             "last_commit": "2026-01-26T13:16:18Z",
             "owner": "conveyal",
             "repo": "r5",
-            "stars": 360
+            "stars": 361
           }
         },
         {
@@ -1231,7 +1231,7 @@
             "last_commit": "2026-01-28T22:12:28Z",
             "owner": "Esri",
             "repo": "public-transit-tools",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -1485,7 +1485,7 @@
             "last_commit": "2026-02-02T15:41:26Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 897
+            "stars": 898
           }
         },
         {
@@ -1498,7 +1498,7 @@
             "last_commit": "2026-02-02T15:41:26Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 897
+            "stars": 898
           }
         }
       ],
@@ -2585,7 +2585,7 @@
             "last_commit": "2026-02-05T19:53:10Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6258
+            "stars": 6259
           }
         },
         {
@@ -2631,7 +2631,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-06T19:22:00Z",
+            "last_commit": "2026-02-07T22:21:31Z",
             "owner": "motis-project",
             "repo": "motis",
             "stars": 456
@@ -2657,7 +2657,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-01-22T05:19:31Z",
+            "last_commit": "2026-02-08T04:30:43Z",
             "owner": "OneBusAway",
             "repo": "onebusaway-application-modules",
             "stars": 235
@@ -3637,7 +3637,7 @@
             "last_commit": "2023-12-08T09:07:48Z",
             "owner": "transportkollektiv",
             "repo": "meetup",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -3650,7 +3650,7 @@
             "last_commit": "2023-12-08T09:07:48Z",
             "owner": "transportkollektiv",
             "repo": "meetup",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -3761,10 +3761,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:01:49.892Z",
+    "last_updated": "2026-02-08T04:32:46.303Z",
     "original_repository": "CUTR-at-USF/awesome-transit",
     "source_repository": "v1nvn/enhansome-transit",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "awesome-transit"
   }
 }
