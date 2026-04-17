@@ -1,4 +1,4 @@
-# awesome-transit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 455,762 | 🐛 63 | 📅 2026-04-02 [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/MobilityData/awesome-transit/commits/master.atom) ⭐ 1,724 | 🐛 24 | 📅 2026-04-02
+# awesome-transit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 456,116 | 🐛 64 | 📅 2026-04-02 [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/MobilityData/awesome-transit/commits/master.atom) ⭐ 1,727 | 🐛 24 | 📅 2026-04-02
 
 ##### Community list of data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
 
@@ -12,7 +12,7 @@ Elements of open technology include:
 
 This list is focused around the open technology ecosystem for public transportation. Included technologies may be open source themselves and/or rely on open standards and/or open data.
 
-Have something to add or change? Open a [pull request](https://github.com/MobilityData/awesome-transit/pulls) ⭐ 1,724 | 🐛 24 | 📅 2026-04-02 or [issue](https://github.com/MobilityData/awesome-transit/issues) ⭐ 1,724 | 🐛 24 | 📅 2026-04-02 at [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit) ⭐ 1,724 | 🐛 24 | 📅 2026-04-02.
+Have something to add or change? Open a [pull request](https://github.com/MobilityData/awesome-transit/pulls) ⭐ 1,727 | 🐛 24 | 📅 2026-04-02 or [issue](https://github.com/MobilityData/awesome-transit/issues) ⭐ 1,727 | 🐛 24 | 📅 2026-04-02 at [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit) ⭐ 1,727 | 🐛 24 | 📅 2026-04-02.
 
 ***
 
@@ -84,7 +84,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 
 ##### C++
 
-* [just\_gtfs](https://github.com/mesozoic-drones/just_gtfs) ⭐ 27 | 🐛 2 | 🌐 C++ | 📅 2023-11-10 - C++17 header-only library for reading and writing GTFS (used in [Valhalla](https://github.com/valhalla/valhalla) ⭐ 5,616 | 🐛 885 | 🌐 C++ | 📅 2026-04-15). Main features: fast reading and writing of GTFS feeds, support for [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types), simple working with GTFS Date and Time formats.
+* [just\_gtfs](https://github.com/mesozoic-drones/just_gtfs) ⭐ 27 | 🐛 2 | 🌐 C++ | 📅 2023-11-10 - C++17 header-only library for reading and writing GTFS (used in [Valhalla](https://github.com/valhalla/valhalla) ⭐ 5,619 | 🐛 884 | 🌐 C++ | 📅 2026-04-16). Main features: fast reading and writing of GTFS feeds, support for [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types), simple working with GTFS Date and Time formats.
 
 ##### C\#
 
@@ -102,13 +102,13 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 ##### JavaScript
 
 * [Node-GTFS](https://github.com/BlinkTagInc/node-gtfs) ⭐ 494 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-03 - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
-* [gtfs-via-postgres](https://github.com/derhuerst/gtfs-via-postgres) ⭐ 135 | 🐛 29 | 🌐 JavaScript | 📅 2026-02-21 – Yet another tool to process GTFS using PostgreSQL.
+* [gtfs-via-postgres](https://github.com/derhuerst/gtfs-via-postgres) ⭐ 136 | 🐛 29 | 🌐 JavaScript | 📅 2026-02-21 – Yet another tool to process GTFS using PostgreSQL.
 * [gtfs-utils](https://github.com/public-transport/gtfs-utils) ⭐ 45 | 🐛 16 | 🌐 JavaScript | 📅 2022-02-26 – Utilities to process GTFS data sets (e.g., "flattening" `calendar.txt` & `calendar_dates.txt`, computing arrival/departure times of trips).
 * [gtfs-sequelize](https://github.com/evansiroky/gtfs-sequelize) ⭐ 20 | 🐛 2 | 🌐 JavaScript | 📅 2018-01-15 - Node.js library modeling the static GTFS using sequelize.js.
 
 ##### PostgreSQL
 
-* [gtfs-via-postgres](https://github.com/derhuerst/gtfs-via-postgres) ⭐ 135 | 🐛 29 | 🌐 JavaScript | 📅 2026-02-21 – Yet another tool to process GTFS using PostgreSQL.
+* [gtfs-via-postgres](https://github.com/derhuerst/gtfs-via-postgres) ⭐ 136 | 🐛 29 | 🌐 JavaScript | 📅 2026-02-21 – Yet another tool to process GTFS using PostgreSQL.
 * [gtfs-schema](https://github.com/tyleragreen/gtfs-schema) ⚠️ Archived - PostgreSQL schema for GTFS feeds.
 
 ##### Python
@@ -118,7 +118,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 * [gtfsdb](https://github.com/OpenTransitTools/gtfsdb) ⭐ 179 | 🐛 18 | 🌐 Python | 📅 2026-01-12 - Python library for converting GTFS files into a relational database.
 * [gtfspy](https://github.com/CxAalto/gtfspy) ⭐ 167 | 🐛 21 | 🌐 Python | 📅 2023-05-23 - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz) ⭐ 67 | 🐛 4 | 🌐 JavaScript | 📅 2024-08-27.
 * [gtfs\_functions](https://github.com/Bondify/gtfs_functions) ⭐ 138 | 🐛 12 | 🌐 Python | 📅 2025-10-27 - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
-* [GTFS Kit](https://github.com/mrcagney/gtfs_kit) ⭐ 118 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-17 - A Python 3.8+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes GTFSTK.
+* [GTFS Kit](https://github.com/mrcagney/gtfs_kit) ⭐ 119 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-17 - A Python 3.8+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes GTFSTK.
 * [multigtfs](https://github.com/tulsawebdevs/django-multi-gtfs) ⭐ 55 | 🐛 35 | 🌐 Python | 📅 2023-02-10 - A Django application to import and export GTFS.
 * [gtfs-segments](https://github.com/UTEL-UIUC/gtfs_segments) ⭐ 49 | 🐛 3 | 🌐 Python | 📅 2025-06-30 - Python package that represents GTFS data for buses in a concise tabular manner using segments.
 * [gtfslib-python](https://github.com/afimb/gtfslib-python) ⚠️ Archived -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
@@ -130,7 +130,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 
 ##### R
 
-* [tidytransit](https://github.com/r-transit/tidytransit) ⭐ 167 | 🐛 4 | 🌐 R | 📅 2026-04-13 - Use tidytransit to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds. tidytransit reads the General Transit Feed Specification into tidyverse and simple features data frames.
+* [tidytransit](https://github.com/r-transit/tidytransit) ⭐ 167 | 🐛 4 | 🌐 R | 📅 2026-04-16 - Use tidytransit to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds. tidytransit reads the General Transit Feed Specification into tidyverse and simple features data frames.
 * [gtfsio](https://github.com/r-transit/gtfsio) ⭐ 19 | 🐛 3 | 🌐 R | 📅 2026-03-30 - Fast and flexible functions to read and write GTFS in R.
 * [mobdb](https://github.com/jasonad123/mobdb) ⭐ 9 | 🐛 1 | 🌐 R | 📅 2026-03-05 - R functions to search, discover, and access transit feed data from the [Mobility Database](https://mobilitydatabase.org/).
 * [r-transit](https://github.com/r-transit) - Collection of tools for GTFS in R.
@@ -141,7 +141,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 
 ##### Rust
 
-* [gtfs-structure](https://github.com/rust-transit/gtfs-structure) ⭐ 73 | 🐛 21 | 🌐 Rust | 📅 2026-03-23 - This crates provides GTFS structures and helpers to read GTFS archives.
+* [gtfs-structure](https://github.com/rust-transit/gtfs-structure) ⭐ 74 | 🐛 21 | 🌐 Rust | 📅 2026-03-23 - This crates provides GTFS structures and helpers to read GTFS archives.
 
 #### GTFS Converters
 
@@ -179,15 +179,15 @@ Converters from various static schedule formats to and from GTFS.
 
 * [pfaedle](https://github.com/ad-freiburg/pfaedle) ⭐ 269 | 🐛 11 | 🌐 C++ | 📅 2026-03-27 - Precise map-matching for GTFS using OpenStreetMap data
 * [static-GTFS-manager](https://github.com/WRI-Cities/static-GTFS-manager) ⭐ 157 | 🐛 64 | 🌐 JavaScript | 📅 2022-06-05 - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).
-* [IBI Data Tools](https://github.com/ibi-group/datatools-ui) ⭐ 145 | 🐛 144 | 🌐 JavaScript | 📅 2026-04-08 - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated
-* [GTFS Editor](https://github.com/conveyal/gtfs-editor) ⭐ 139 | 🐛 134 | 🌐 JavaScript | 📅 2017-06-20 - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools](https://github.com/ibi-group/datatools-ui) ⭐ 145 | 🐛 144 | 🌐 JavaScript | 📅 2026-04-08.)
+* [IBI Data Tools](https://github.com/ibi-group/datatools-ui) ⭐ 145 | 🐛 145 | 🌐 JavaScript | 📅 2026-04-08 - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated
+* [GTFS Editor](https://github.com/conveyal/gtfs-editor) ⭐ 139 | 🐛 134 | 🌐 JavaScript | 📅 2017-06-20 - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools](https://github.com/ibi-group/datatools-ui) ⭐ 145 | 🐛 145 | 🌐 JavaScript | 📅 2026-04-08.)
 * [Data-Tools Server](https://github.com/ibi-group/datatools-server) ⭐ 55 | 🐛 43 | 🌐 Java | 📅 2026-04-15 - Server for IBI's GTFS data management platform.
 * [TransitWand](https://github.com/conveyal/transit-wand) ⭐ 44 | 🐛 17 | 🌐 JavaScript | 📅 2015-07-01 - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
-* [bus-router](https://github.com/atlregional/bus-router) ⭐ 40 | 🐛 3 | 🌐 Python | 📅 2016-12-20 - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api) ⭐ 7,637 | 🐛 374 | 🌐 C++ | 📅 2026-04-15.
+* [bus-router](https://github.com/atlregional/bus-router) ⭐ 40 | 🐛 3 | 🌐 Python | 📅 2016-12-20 - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api) ⭐ 7,640 | 🐛 375 | 🌐 C++ | 📅 2026-04-16.
 * [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) ⭐ 24 | 🐛 37 | 🌐 JavaScript | 📅 2016-04-22 and [GTFS Editor](https://github.com/conveyal/gtfs-editor) ⭐ 139 | 🐛 134 | 🌐 JavaScript | 📅 2017-06-20.)
 * [gtfs-station-builder](https://github.com/kostjerry/gtfs-station-builder) ⭐ 20 | 🐛 8 | 🌐 TypeScript | 📅 2023-05-06 - UI tool to help build the internal structure of stations (including pathways.txt)
 * [Amarillo](https://github.com/mfdz/amarillo) ⭐ 11 | 🐛 11 | 🌐 Python | 📅 2026-03-22 - Aggregates and enhances carpooling-offers and publishes them as GTFS(-RT)
-* [gtfs-blocks-to-transfers](https://github.com/TransitApp/GTFS-blocks-to-transfers) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-04-02 - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) ⭐ 936 | 🐛 139 | 📅 2026-03-05 into a series of [trip-to-trip transfers (proposal)](https://github.com/google/transit/pull/303) ⭐ 936 | 🐛 139 | 📅 2026-03-05.
+* [gtfs-blocks-to-transfers](https://github.com/TransitApp/GTFS-blocks-to-transfers) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-04-02 - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) ⭐ 936 | 🐛 140 | 📅 2026-03-05 into a series of [trip-to-trip transfers (proposal)](https://github.com/google/transit/pull/303) ⭐ 936 | 🐛 140 | 📅 2026-03-05.
 * [GTFS shape mapfit](https://github.com/HSLdevcom/gtfs_shape_mapfit) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-11-23 - Python tool that fits GTFS shape files and stops to a given OSM map file. Uses [pymapmatch](https://github.com/tru-hy/pymapmatch) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2015-06-30 for the matching.
 * [GTFS Editor for Vagrant](https://github.com/laidig/vagrant-gtfs-editor) ⭐ 7 | 🐛 2 | 🌐 Shell | 📅 2017-06-03 - Quickly set up the GTFS editor (above) using [Vagrant](https://www.vagrantup.com/)
 * [Uttu](https://github.com/entur/uttu) ⭐ 7 | 🐛 19 | 🌐 Java | 📅 2026-04-15 - Back-end for Nplan, a simple timetable editor.
@@ -206,17 +206,17 @@ Converters from various static schedule formats to and from GTFS.
 #### GTFS Merge Tools
 
 * [Transitfeed merge function](https://github.com/google/transitfeed/wiki/Merge) ⚠️ Archived - A Python library with a function to merge two different GTFS feeds.
-* [GTFS Kit](https://github.com/mrcagney/gtfs_kit) ⭐ 118 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-17 - A Python 3.8+ tool kit for analyzing and merging General Transit Feed Specification (GTFS) data. [Info on how to aggregate and clean feeds provided here](https://mrcagney.github.io/gtfs_kit_docs/index.html#module-gtfs_kit.cleaners).
+* [GTFS Kit](https://github.com/mrcagney/gtfs_kit) ⭐ 119 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-17 - A Python 3.8+ tool kit for analyzing and merging General Transit Feed Specification (GTFS) data. [Info on how to aggregate and clean feeds provided here](https://mrcagney.github.io/gtfs_kit_docs/index.html#module-gtfs_kit.cleaners).
 * [combine\_gtfs\_feeds](https://github.com/psrc/combine_gtfs_feeds) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-03-20 - A Python tool to combine multiple gtfs feeds into one feed/dataset.
 * [gtfsmerge](https://github.com/now8-org/gtfsmerge) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-01-30 - A Python Script to merge GTFS ZIP archives into one.
 
 #### GTFS Analysis Tools
 
-* [R5: Rapid Realistic Routing on Real-world and Reimagined networks](https://github.com/conveyal/r5) ⭐ 377 | 🐛 238 | 🌐 Java | 📅 2026-03-24 - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r](https://github.com/ipeaGIT/r5r/) ⭐ 230 | 🐛 39 | 🌐 R | 📅 2026-03-28) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
+* [R5: Rapid Realistic Routing on Real-world and Reimagined networks](https://github.com/conveyal/r5) ⭐ 377 | 🐛 238 | 🌐 Java | 📅 2026-03-24 - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r](https://github.com/ipeaGIT/r5r/) ⭐ 230 | 🐛 40 | 🌐 R | 📅 2026-03-28) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
 * [Peartree](https://github.com/kuanb/peartree) ⭐ 208 | 🐛 23 | 🌐 Python | 📅 2023-05-05 - A Python library for converting transit data into a directed graph for network analysis.
 * [ESRI ArcGIS Public Transit Tools (GTFS)](https://github.com/Esri/public-transit-tools) ⭐ 188 | 🐛 9 | 🌐 Python | 📅 2026-01-28 - Tools for working with public transit data in ArcGIS
-* [tidytransit](https://github.com/r-transit/tidytransit) ⭐ 167 | 🐛 4 | 🌐 R | 📅 2026-04-13 - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
-* [GTFS Kit](https://github.com/mrcagney/gtfs_kit) ⭐ 118 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-17 - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
+* [tidytransit](https://github.com/r-transit/tidytransit) ⭐ 167 | 🐛 4 | 🌐 R | 📅 2026-04-16 - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
+* [GTFS Kit](https://github.com/mrcagney/gtfs_kit) ⭐ 119 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-17 - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
 * [gtfstools](https://github.com/ipeaGIT/gtfstools) ⭐ 47 | 🐛 19 | 🌐 R | 📅 2025-01-21 - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
 * [GTFS-to-Chart](https://github.com/BlinkTagInc/gtfs-to-chart) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-23 - Creates stringline charts showing all vehicles on a transit route from GTFS data.
 * [transitr](https://github.com/tmelliott/transitr) ⭐ 23 | 🐛 18 | 🌐 C++ | 📅 2023-06-06 - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
@@ -229,7 +229,7 @@ Converters from various static schedule formats to and from GTFS.
 
 #### GTFS Timetable Publishing Tools
 
-* [Timetable Kit](https://github.com/neroden/timetable_kit) ⭐ 51 | 🐛 5 | 🌐 Python | 📅 2024-08-10 - An open source Python 3.10 module and scripts depending on [GTFS Kit](https://github.com/mrcagney/gtfs_kit) ⭐ 118 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-17, designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development.
+* [Timetable Kit](https://github.com/neroden/timetable_kit) ⭐ 51 | 🐛 5 | 🌐 Python | 📅 2024-08-10 - An open source Python 3.10 module and scripts depending on [GTFS Kit](https://github.com/mrcagney/gtfs_kit) ⭐ 119 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-17, designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development.
 * [TimeTablePublisher (TTPUB)](https://github.com/OpenTransitTools/ttpub) ⭐ 27 | 🐛 2 | 🌐 HTML | 📅 2019-09-06 - A web publishing system developed by TriMet that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes
 * [GTFS-to-HTML](https://gtfstohtml.com) - Generate human-readable timetables in HTML or PDF format directly from GTFS.
 
@@ -251,12 +251,12 @@ Converters from various static schedule formats to and from GTFS.
 
 ### GTFS Realtime
 
-* [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime) ⭐ 936 | 🐛 139 | 📅 2026-03-05.
-* [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) ⭐ 936 | 🐛 139 | 📅 2026-03-05 and including some extensions.
+* [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime) ⭐ 936 | 🐛 140 | 📅 2026-03-05.
+* [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) ⭐ 936 | 🐛 140 | 📅 2026-03-05 and including some extensions.
 
 #### GTFS Realtime Libraries & Demo Apps
 
-* [gtfs-realtime-bindings](https://github.com/google/gtfs-realtime-bindings) ⭐ 421 | 🐛 39 | 🌐 JavaScript | 📅 2026-04-15 - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) ⭐ 936 | 🐛 139 | 📅 2026-03-05.
+* [gtfs-realtime-bindings](https://github.com/google/gtfs-realtime-bindings) ⭐ 421 | 🐛 40 | 🌐 JavaScript | 📅 2026-04-16 - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) ⭐ 936 | 🐛 140 | 📅 2026-03-05.
 * [GTFS-realtime Vehicle Positions Consumer/Visualizer Demo](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) ⭐ 66 | 🐛 6 | 🌐 Java | 📅 2022-09-07 - A Java-based demo project for consuming a GTFS-realtime Vehicle Positions feed and displaying this info on a map.
 * [GTFS-realtime Exporter](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) ⭐ 19 | 🐛 9 | 🌐 Java | 📅 2024-05-16 - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
 * [GTFS-realtime TripUpdates & VehiclePositions Producer Demo](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) ⚠️ Archived - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
@@ -266,7 +266,7 @@ Converters from various static schedule formats to and from GTFS.
 
 #### GTFS Realtime Validators
 
-* [gtfs-realtime-validator](https://github.com/MobilityData/gtfs-realtime-validator) ⭐ 56 | 🐛 128 | 🌐 Java | 📅 2026-04-14 - A GTFS Realtime validation tool originally developed by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the University of South Florida and now maintained by [MobilityData](https://mobilitydata.org/).
+* [gtfs-realtime-validator](https://github.com/MobilityData/gtfs-realtime-validator) ⭐ 57 | 🐛 128 | 🌐 Java | 📅 2026-04-14 - A GTFS Realtime validation tool originally developed by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the University of South Florida and now maintained by [MobilityData](https://mobilitydata.org/).
 
 #### GTFS Realtime (and Other Real-time API) Archival Tools
 
@@ -335,7 +335,7 @@ Converters from various static schedule formats to and from GTFS.
 
 #### Widely adopted
 
-* [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) ⭐ 731 | 🐛 23 | 📅 2026-04-15 - Mobility Data Specification: A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
+* [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) ⭐ 731 | 🐛 23 | 📅 2026-04-16 - Mobility Data Specification: A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
 * [TOMP](https://github.com/TOMP-WG/TOMP-API) ⭐ 108 | 🐛 47 | 🌐 Python | 📅 2026-02-18 - Transport Operator Mobility-as-a-service Provider API: API standard for use by transport operators and mobility-as-a-service providers for operator discovery, trip planning, end user interaction, booking, and payment.
 * [GBFS](https://gbfs.org/) - General Bikeshare Feed Specification: open data standard for real-time information about bikeshare, scootershare, mopedshare, and carshare.
   * [gbfs R package](https://github.com/simonpcouch/gbfs) ⭐ 38 | 🐛 1 | 🌐 R | 📅 2025-01-13 - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
@@ -346,13 +346,13 @@ Converters from various static schedule formats to and from GTFS.
 
 #### Pilot or development stage
 
-* [GMNS](https://github.com/zephyr-data-specs/GMNS) ⭐ 129 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-04-02 - General Modeling Network Specification: A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
-* [OSDM](https://github.com/UnionInternationalCheminsdeFer/OSDM) ⭐ 85 | 🐛 47 | 🌐 Shell | 📅 2026-04-04 - Open Sales and Distribution Model: Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
+* [GMNS](https://github.com/zephyr-data-specs/GMNS) ⭐ 130 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-04-02 - General Modeling Network Specification: A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
+* [OSDM](https://github.com/UnionInternationalCheminsdeFer/OSDM) ⭐ 85 | 🐛 51 | 🌐 Shell | 📅 2026-04-16 - Open Sales and Distribution Model: Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
 * [CurbLR](https://github.com/curblr/curblr-spec) ⭐ 74 | 🐛 3 | 🌐 JavaScript | 📅 2024-07-16 - A specification for curb regulations.
 * [OMX: The Open Matrix data file format](https://github.com/osPlanning/omx) ⭐ 56 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-12-16 - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
 * [TIDES](https://github.com/TIDES-transit/TIDES) ⭐ 54 | 🐛 50 | 🌐 Python | 📅 2026-03-12 -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
 * [GTFS-ride](https://github.com/ODOT-PTS/GTFS-ride) ⭐ 52 | 🐛 9 | 📅 2021-12-30 - An open, fixed-route transit ridership data standard developed through a partnership between the Oregon Department of Transportation and Oregon State University.
-* [OJP](https://github.com/VDVde/OJP) ⭐ 36 | 🐛 34 | 🌐 XSLT | 📅 2025-08-27 - Open Journey Planner.
+* [OJP](https://github.com/VDVde/OJP) ⭐ 36 | 🐛 37 | 🌐 XSLT | 📅 2025-08-27 - Open Journey Planner.
 * [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) ⭐ 23 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2018-06-12 - A GTFS-based transit network format for *vehicle and capacity data* suitable for dynamic transit modeling developed by Puget Sound Regional Council, UrbanLabs LLC, LMZ LLC, and San Francisco County Transportation Authority.
 * [shared-row](https://github.com/d-wasserman/shared-row) ⭐ 19 | 🐛 3 | 📅 2026-03-09 - A specification for right-of-way (ROW) for a SharedStreets Reference.
 * [MaaS API](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2020-04-04 - A set of open documents and test suite that defines a MaaS-compatible API.
@@ -378,10 +378,10 @@ Converters from various static schedule formats to and from GTFS.
 
 Software that you can set up to provide an API to transit and multimodal data.
 
-* [GraphHopper Routing Engine](https://github.com/graphhopper/graphhopper/#public-transit) ⭐ 6,410 | 🐛 248 | 🌐 Java | 📅 2026-04-14 Open source routing engine for OpenStreetMap. Use it as Java library or server.
-* [pyBikes](https://github.com/eskerda/pybikes) ⭐ 601 | 🐛 34 | 🌐 Python | 📅 2026-04-15 - Software powering [CityBikes](http://api.citybik.es) for worldwide bikeshare system info
-* [MOTIS](https://github.com/motis-project/motis) ⭐ 497 | 🐛 90 | 🌐 C++ | 📅 2026-04-15 - Multi Objective Travel Information System, written in C++ and Java. Can consume schedule timetables in the GTFS or HAFAS format as well as real time information in the GTFS-RT (and RISML, a propriatary format at Deutsche Bahn) as input data. For pedestrian routing (handled by Per Pedes Routing) and car routing (handled by OSRM) OpenStreetMap data is used.
-* [Navitia](https://github.com/hove-io/navitia) ⭐ 452 | 🐛 44 | 🌐 Python | 📅 2026-04-07 is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
+* [GraphHopper Routing Engine](https://github.com/graphhopper/graphhopper/#public-transit) ⭐ 6,411 | 🐛 248 | 🌐 Java | 📅 2026-04-14 Open source routing engine for OpenStreetMap. Use it as Java library or server.
+* [pyBikes](https://github.com/eskerda/pybikes) ⭐ 601 | 🐛 33 | 🌐 Python | 📅 2026-04-16 - Software powering [CityBikes](http://api.citybik.es) for worldwide bikeshare system info
+* [MOTIS](https://github.com/motis-project/motis) ⭐ 498 | 🐛 88 | 🌐 C++ | 📅 2026-04-16 - Multi Objective Travel Information System, written in C++ and Java. Can consume schedule timetables in the GTFS or HAFAS format as well as real time information in the GTFS-RT (and RISML, a propriatary format at Deutsche Bahn) as input data. For pedestrian routing (handled by Per Pedes Routing) and car routing (handled by OSRM) OpenStreetMap data is used.
+* [Navitia](https://github.com/hove-io/navitia) ⭐ 452 | 🐛 45 | 🌐 Python | 📅 2026-04-16 is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
 * [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide) ⭐ 236 | 🐛 79 | 🌐 Java | 📅 2026-02-08) and turns them into an easy to use REST API.
 * [gtfs-server](https://github.com/denysvitali/gtfs-server) ⭐ 38 | 🐛 8 | 🌐 Rust | 📅 2022-12-07 - A web server, written in Rust that uses PostGIS as a backend to serve GTFS data via a HTTP endpoint
 * [hafas-rest-api](https://github.com/public-transport/hafas-rest-api) ⭐ 26 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-22 – Expose a [HAFAS](https://de.wikipedia.org/wiki/HAFAS) endpoint as a REST API.
@@ -399,7 +399,7 @@ Places to access collections of GTFS and other transit and multimodal data.
 
 #### 3rd party GTFS URL directories
 
-* [The Mobility Database](https://mobilitydatabase.org/) - JSON and CSV files [on GitHub](https://github.com/MobilityData/mobility-database-catalogs) ⭐ 327 | 🐛 196 | 🌐 Python | 📅 2026-04-14 that is a repository of 2000+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com.
+* [The Mobility Database](https://mobilitydatabase.org/) - JSON and CSV files [on GitHub](https://github.com/MobilityData/mobility-database-catalogs) ⭐ 327 | 🐛 201 | 🌐 Python | 📅 2026-04-14 that is a repository of 2000+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com.
 * [Transitland](https://transit.land/) - Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data.
 * [TransitData.io](https://transitdata.io/) - A list of GTFS data in parts of Latin America. Must contact website maintainers directly to access feeds, as they're not publicly available.
 * [~~OpenMobilityData~~ (Deprecated)](https://openmobilitydata.org/) - List of GTFS and [GTFS-RT](https://openmobilitydata.org/search?q=gtfsrt) feeds. [Archives and validates](https://openmobilitydata.org/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](https://openmobilitydata.org/p/capital-metro/24/latest) and [GTFS-RT](https://openmobilitydata.org/p/capital-metro/495) through the browser. Formerly TransitFeeds.com. [MobilityData announced](https://database.mobilitydata.org/#h.u71vp6xgkckf) it is end-of-life as of early 2022 with a shutdown date to be determined.
@@ -417,8 +417,8 @@ Places to access collections of GTFS and other transit and multimodal data.
 
 #### Proprietary (non-standard) vendor APIs
 
-* [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes](https://github.com/eskerda/pybikes) ⭐ 601 | 🐛 34 | 🌐 Python | 📅 2026-04-15.
-* [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isochrones and lot more on US and EU. [Navitia](https://github.com/hove-io/navitia) ⭐ 452 | 🐛 44 | 🌐 Python | 📅 2026-04-07 is the opensource engine behind the live API.
+* [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes](https://github.com/eskerda/pybikes) ⭐ 601 | 🐛 33 | 🌐 Python | 📅 2026-04-16.
+* [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isochrones and lot more on US and EU. [Navitia](https://github.com/hove-io/navitia) ⭐ 452 | 🐛 45 | 🌐 Python | 📅 2026-04-16 is the opensource engine behind the live API.
 * [Transport API](https://www.transportapi.com/) - REST API for aggregated transit data for the United Kingdom.  Fee-based access.
 * [NextBus API](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) - REST API for real-time vehicle, route, stop, and arrival data for agencies that have puchased NextBus's hardware and/or software.
 * [HAFAS](https://de.wikipedia.org/wiki/HAFAS) – Propriety public transport management software by [HaCon](https://www.hacon.de) ([list of endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5))
@@ -433,13 +433,13 @@ Places to access collections of GTFS and other transit and multimodal data.
 
 #### Sample GTFS and GTFS Realtime datasets used for software testing
 
-* [OpenTripPlanner unit tests](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test) ⭐ 2,607 | 🐛 162 | 🌐 Java | 📅 2026-04-15 - Some [GTFS datasets](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/resources/gtfs) ⭐ 2,607 | 🐛 162 | 🌐 Java | 📅 2026-04-15 are defined for the unit tests ([GtfsTest](https://github.com/opentripplanner/OpenTripPlanner/blob/dev-2.x/src/test/java/org/opentripplanner/GtfsTest.java) ⭐ 2,607 | 🐛 162 | 🌐 Java | 📅 2026-04-15 and [mmri folder](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/java/org/opentripplanner/mmri) ⭐ 2,607 | 🐛 162 | 🌐 Java | 📅 2026-04-15).
+* [OpenTripPlanner unit tests](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test) ⭐ 2,607 | 🐛 164 | 🌐 Java | 📅 2026-04-16 - Some [GTFS datasets](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/resources/gtfs) ⭐ 2,607 | 🐛 164 | 🌐 Java | 📅 2026-04-16 are defined for the unit tests ([GtfsTest](https://github.com/opentripplanner/OpenTripPlanner/blob/dev-2.x/src/test/java/org/opentripplanner/GtfsTest.java) ⭐ 2,607 | 🐛 164 | 🌐 Java | 📅 2026-04-16 and [mmri folder](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/java/org/opentripplanner/mmri) ⭐ 2,607 | 🐛 164 | 🌐 Java | 📅 2026-04-16).
 * [transitfeed unit tests](https://github.com/google/transitfeed/tree/master/tests/data) ⚠️ Archived - Test data created for the original Google [Python GTFS validator](https://github.com/google/transitfeed/wiki/FeedValidator) ⚠️ Archived.
-* [gtfs-realtime-validator unit tests](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/) ⭐ 56 | 🐛 128 | 🌐 Java | 📅 2026-04-14 - Some [GTFS datasets (zip files)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources) ⭐ 56 | 🐛 128 | 🌐 Java | 📅 2026-04-14 are included and a large number of GTFS RT messages are defined [programmatically in Java](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules) ⭐ 56 | 🐛 128 | 🌐 Java | 📅 2026-04-14 via the gtfs-realtime-bindings library.
-* [Transitland GTFS and GTFS Realtime unit tests](https://github.com/interline-io/transitland-lib) ⭐ 50 | 🐛 27 | 🌐 Go | 📅 2026-04-09 - For testing the [transitland-lib](https://github.com/interline-io/transitland-lib) ⭐ 50 | 🐛 27 | 🌐 Go | 📅 2026-04-09 library that handles GTFS and GTFS Realtime parsing and validation for Transitland:
-  * [GTFS - "bad entities" at the single row level](https://github.com/interline-io/transitland-lib/tree/master/test/data/bad-entities) ⭐ 50 | 🐛 27 | 🌐 Go | 📅 2026-04-09
-  * [GTFS - validation errors that that involve entities in one or more files](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/errors) ⭐ 50 | 🐛 27 | 🌐 Go | 📅 2026-04-09
-  * [GTFS - best practices](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/best-practices) ⭐ 50 | 🐛 27 | 🌐 Go | 📅 2026-04-09
+* [gtfs-realtime-validator unit tests](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/) ⭐ 57 | 🐛 128 | 🌐 Java | 📅 2026-04-14 - Some [GTFS datasets (zip files)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources) ⭐ 57 | 🐛 128 | 🌐 Java | 📅 2026-04-14 are included and a large number of GTFS RT messages are defined [programmatically in Java](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules) ⭐ 57 | 🐛 128 | 🌐 Java | 📅 2026-04-14 via the gtfs-realtime-bindings library.
+* [Transitland GTFS and GTFS Realtime unit tests](https://github.com/interline-io/transitland-lib) ⭐ 50 | 🐛 28 | 🌐 Go | 📅 2026-04-16 - For testing the [transitland-lib](https://github.com/interline-io/transitland-lib) ⭐ 50 | 🐛 28 | 🌐 Go | 📅 2026-04-16 library that handles GTFS and GTFS Realtime parsing and validation for Transitland:
+  * [GTFS - "bad entities" at the single row level](https://github.com/interline-io/transitland-lib/tree/master/test/data/bad-entities) ⭐ 50 | 🐛 28 | 🌐 Go | 📅 2026-04-16
+  * [GTFS - validation errors that that involve entities in one or more files](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/errors) ⭐ 50 | 🐛 28 | 🌐 Go | 📅 2026-04-16
+  * [GTFS - best practices](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/best-practices) ⭐ 50 | 🐛 28 | 🌐 Go | 📅 2026-04-16
 * [sample-gtfs-feed](https://github.com/public-transport/sample-gtfs-feed) ⭐ 13 | 🐛 3 | 🌐 JavaScript | 📅 2024-06-25 - An imaginary GTFS data set used for testing.
 
 ## Using Data
@@ -483,7 +483,7 @@ Apps people use when taking transit.
 
 #### Native Apps (open source)
 
-* [Transportr](https://github.com/grote/Transportr) ⭐ 1,162 | 🐛 112 | 🌐 Kotlin | 📅 2026-03-24 An Android app that uses [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) ⭐ 436 | 🐛 199 | 🌐 Java | 📅 2026-03-24 in order to connect to many different transport networks worldwide.
+* [Transportr](https://github.com/grote/Transportr) ⭐ 1,162 | 🐛 112 | 🌐 Kotlin | 📅 2026-03-24 An Android app that uses [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) ⭐ 437 | 🐛 200 | 🌐 Java | 📅 2026-03-24 in order to connect to many different transport networks worldwide.
 * OneBusAway Apps - [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android) ⭐ 542 | 🐛 190 | 🌐 Java | 📅 2026-03-20, [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android) ⭐ 542 | 🐛 190 | 🌐 Java | 📅 2026-03-20, [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-ios) ⭐ 142 | 🐛 101 | 🌐 Swift | 📅 2026-04-10, [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone) ⚠️ Archived, [Google Glass GDK](https://github.com/OneBusAway/onebusaway-android/pull/219) ⭐ 542 | 🐛 190 | 🌐 Java | 📅 2026-03-20 [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219) ⭐ 542 | 🐛 190 | 🌐 Java | 📅 2026-03-20, [Alexa skill](https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/) [*(source code)*](https://github.com/OneBusAway/onebusaway-alexa) ⭐ 52 | 🐛 17 | 🌐 Java | 📅 2022-12-16
 * [OpenTripPlanner Android](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) ⚠️ Archived - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
 * [OpenTripPlanner iOS](https://github.com/opentripplanner/OpenTripPlanner-iOS) ⚠️ Archived - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
@@ -637,7 +637,7 @@ Places to ask questions and find other community resources.
 
 * [MobilityData Slack chat](https://share.mobilitydata.org/slack) - Chatroom that includes channels #gtfs, #gtfs-validators #mobility-database  #gtfs-realtime #gtfs\_best-practices #gtfs-pathways #gtfs-fares #gtfs-flex #trb-transit-data.
 * [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
-* [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) ⭐ 2,607 | 🐛 162 | 🌐 Java | 📅 2026-04-15 Community
+* [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) ⭐ 2,607 | 🐛 164 | 🌐 Java | 📅 2026-04-16 Community
   * [OpenTripPlanner User mailing list](https://groups.google.com/forum/#!forum/opentripplanner-users)
   * [OpenTripPlanner Developers mailing list](https://groups.google.com/forum/#!forum/opentripplanner-dev)
 * OneBusAway
