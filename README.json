@@ -963,7 +963,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-09T22:25:02Z",
+            "last_commit": "2026-05-10T22:15:50Z",
             "owner": "entur",
             "repo": "uttu",
             "stars": 7
@@ -1173,7 +1173,7 @@
             "last_commit": "2026-05-03T22:50:54Z",
             "owner": "c2g-dev",
             "repo": "city2graph",
-            "stars": 1194
+            "stars": 1195
           }
         },
         {
@@ -1453,7 +1453,7 @@
             "last_commit": "2026-05-07T14:43:05Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 955
+            "stars": 956
           }
         },
         {
@@ -1466,7 +1466,7 @@
             "last_commit": "2026-05-07T14:43:05Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 955
+            "stars": 956
           }
         }
       ],
@@ -2531,7 +2531,7 @@
             "last_commit": "2026-05-08T21:29:42Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6436
+            "stars": 6438
           }
         },
         {
@@ -2863,7 +2863,7 @@
             "last_commit": "2026-05-09T09:12:44Z",
             "owner": "conveyal",
             "repo": "transitive.js",
-            "stars": 699
+            "stars": 700
           }
         },
         {
@@ -2982,7 +2982,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-10T02:41:31Z",
+            "last_commit": "2026-05-11T02:40:39Z",
             "owner": "KDE",
             "repo": "itinerary",
             "stars": 59
@@ -3729,7 +3729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:36:29.517Z",
+    "last_updated": "2026-05-11T05:57:49.044Z",
     "original_repository": "CUTR-at-USF/awesome-transit",
     "source_repository": "v1nvn/enhansome-transit",
     "source_repository_description": null,
