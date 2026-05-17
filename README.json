@@ -598,7 +598,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-15T10:40:26Z",
+            "last_commit": "2026-05-16T22:05:57Z",
             "owner": "entur",
             "repo": "netex-gtfs-converter-java",
             "stars": 9
@@ -679,7 +679,7 @@
             "last_commit": "2026-05-15T07:42:09Z",
             "owner": "hove-io",
             "repo": "transit_model",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -1105,7 +1105,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-15T16:01:55Z",
+            "last_commit": "2026-05-16T17:15:58Z",
             "owner": "conveyal",
             "repo": "r5",
             "stars": 384
@@ -1466,7 +1466,7 @@
             "last_commit": "2026-05-12T14:32:38Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 959
+            "stars": 960
           }
         },
         {
@@ -1479,7 +1479,7 @@
             "last_commit": "2026-05-12T14:32:38Z",
             "owner": "google",
             "repo": "transit",
-            "stars": 959
+            "stars": 960
           }
         }
       ],
@@ -2544,7 +2544,7 @@
             "last_commit": "2026-05-12T17:01:16Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6449
+            "stars": 6452
           }
         },
         {
@@ -2995,10 +2995,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T03:48:12Z",
+            "last_commit": "2026-05-17T05:26:52Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 87077
+            "stars": 87083
           }
         },
         {
@@ -3008,7 +3008,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-16T03:21:34Z",
+            "last_commit": "2026-05-16T13:05:43Z",
             "owner": "KDE",
             "repo": "itinerary",
             "stars": 59
@@ -3125,7 +3125,7 @@
             "last_commit": "2026-03-24T07:15:45Z",
             "owner": "grote",
             "repo": "Transportr",
-            "stars": 1167
+            "stars": 1166
           }
         },
         {
@@ -3183,7 +3183,7 @@
             "last_commit": "2026-04-21T10:26:48Z",
             "owner": "chrisys",
             "repo": "train-departure-display",
-            "stars": 316
+            "stars": 317
           }
         }
       ],
@@ -3475,7 +3475,7 @@
             "last_commit": "2026-05-04T13:56:06Z",
             "owner": "gabrielAHN",
             "repo": "gtfs-viz",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -3755,7 +3755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:26:22.070Z",
+    "last_updated": "2026-05-17T05:48:07.238Z",
     "original_repository": "CUTR-at-USF/awesome-transit",
     "source_repository": "v1nvn/enhansome-transit",
     "source_repository_description": null,
