@@ -51,7 +51,7 @@
             "last_commit": "2024-01-10T16:17:46Z",
             "owner": "mbta",
             "repo": "gtfs_onboarding",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -379,7 +379,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-04-21T06:53:21Z",
+            "last_commit": "2026-05-18T08:14:43Z",
             "owner": "r-transit",
             "repo": "gtfsio",
             "stars": 19
@@ -676,7 +676,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-15T07:42:09Z",
+            "last_commit": "2026-05-18T13:05:17Z",
             "owner": "hove-io",
             "repo": "transit_model",
             "stars": 69
@@ -801,7 +801,7 @@
             "last_commit": "2022-06-05T12:59:33Z",
             "owner": "WRI-Cities",
             "repo": "static-GTFS-manager",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -824,7 +824,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-15T18:49:16Z",
+            "last_commit": "2026-05-18T20:50:23Z",
             "owner": "ibi-group",
             "repo": "datatools-ui",
             "stars": 146
@@ -871,7 +871,7 @@
             "last_commit": "2026-03-27T14:51:22Z",
             "owner": "ad-freiburg",
             "repo": "pfaedle",
-            "stars": 271
+            "stars": 272
           }
         },
         {
@@ -963,7 +963,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-17T22:07:21Z",
+            "last_commit": "2026-05-18T22:43:51Z",
             "owner": "entur",
             "repo": "uttu",
             "stars": 7
@@ -1105,7 +1105,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-16T17:15:58Z",
+            "last_commit": "2026-05-18T17:43:43Z",
             "owner": "conveyal",
             "repo": "r5",
             "stars": 384
@@ -1173,7 +1173,7 @@
             "last_commit": "2026-05-14T15:28:37Z",
             "owner": "c2g-dev",
             "repo": "city2graph",
-            "stars": 1198
+            "stars": 1200
           }
         },
         {
@@ -1498,7 +1498,7 @@
             "last_commit": "2026-05-15T14:55:00Z",
             "owner": "MobilityData",
             "repo": "gtfs-realtime-bindings",
-            "stars": 426
+            "stars": 427
           }
         },
         {
@@ -1879,7 +1879,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T17:11:04Z",
+            "last_commit": "2026-05-18T22:08:06Z",
             "owner": "jdamcd",
             "repo": "gtfs-mcp",
             "stars": 0
@@ -2469,7 +2469,7 @@
             "last_commit": "2026-05-11T16:35:23Z",
             "owner": "TIDES-transit",
             "repo": "TIDES",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -2544,7 +2544,7 @@
             "last_commit": "2026-05-12T17:01:16Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6454
+            "stars": 6458
           }
         },
         {
@@ -2595,7 +2595,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-15T08:57:20Z",
+            "last_commit": "2026-05-18T09:00:55Z",
             "owner": "hove-io",
             "repo": "navitia",
             "stars": 455
@@ -2691,7 +2691,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-15T08:57:20Z",
+            "last_commit": "2026-05-18T09:00:55Z",
             "owner": "hove-io",
             "repo": "navitia",
             "stars": 455
@@ -2751,7 +2751,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-15T22:10:23Z",
+            "last_commit": "2026-05-19T04:01:36Z",
             "owner": "interline-io",
             "repo": "transitland-lib",
             "stars": 51
@@ -2995,10 +2995,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-18T06:08:04Z",
+            "last_commit": "2026-05-19T05:48:14Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 87093
+            "stars": 87113
           }
         },
         {
@@ -3008,7 +3008,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-18T02:43:55Z",
+            "last_commit": "2026-05-19T02:40:52Z",
             "owner": "KDE",
             "repo": "itinerary",
             "stars": 59
@@ -3755,7 +3755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:12:59.530Z",
+    "last_updated": "2026-05-19T06:07:17.900Z",
     "original_repository": "CUTR-at-USF/awesome-transit",
     "source_repository": "v1nvn/enhansome-transit",
     "source_repository_description": null,
